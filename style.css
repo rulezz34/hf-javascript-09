@@ -1,0 +1,15 @@
+p {
+    width: 300px;
+    height: 30px;
+    background-color: rgb(201, 201, 201);
+}
+
+#reactionBtn {
+    color: white;
+    font-size: 12px;
+    font-weight: 600;
+    background-color: red;;
+    position: absolute;
+    width: 60px;
+    height: 60px;
+}
